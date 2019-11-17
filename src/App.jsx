@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Test from './Components/Test';
+import Detect from './Components/Detect';
+import Violations from './Components/Violations';
 
 function App() {
   return (
@@ -9,6 +11,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <Test />
+        <Detect/>
+        <Violations/>
       </header>
     </div>
   );

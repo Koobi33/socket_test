@@ -14,9 +14,36 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  /*color: white;*/
 }
 
 .App-link {
   color: #09d3ac;
+}
+.Menu_svg {
+  height: 55px;
+  width: 55px;
+  object-fit: contain;
+  margin-right: 20px;
+}
+.Name {
+  font-size: 30px;
+  font-weight: 600;
+  margin-right: 40px;
+  color: black;
+  /*font-family: SansSerif;*/
+}
+.Name-icon-container {
+  display: flex;
+  align-items: center;
+}
+.Violation-header {
+  font-size: 35px;
+  margin-bottom: 20px;
+  text-align: left;
+  color: black;
+}
+.Violations-container {
+  display: flex;
+  flex-direction: column;
 }

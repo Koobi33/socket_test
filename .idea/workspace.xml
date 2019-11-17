@@ -2,15 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c7611eb-618a-423e-8470-65fd4bbe4221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Detect.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Violations.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/glassesGreen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/glassesRed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/helmetGreen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/helmetRed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/hoomanGreen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/hoomanRed.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +61,9 @@
       <workItem from="1573982221210" duration="4000" />
       <workItem from="1573982729293" duration="4000" />
       <workItem from="1573982763294" duration="52000" />
+      <workItem from="1573986062771" duration="337000" />
+      <workItem from="1573986405268" duration="82000" />
+      <workItem from="1573986513543" duration="4858000" />
     </task>
     <servers />
   </component>
