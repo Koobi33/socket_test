@@ -10,13 +10,13 @@ export default function (props) {
 
     return(
         <div>
-            <p>Сотрудники в помещении:</p>
+            <h1>Сотрудники в помещении:</h1>
             <div className='Name-icon-container'>
                 <p className='Name'>Дмитрий</p>
                 <div>
                     <img alt='' src={helmetGreen} className='Menu_svg'/>
-                    <img src={glassesGreen} className='Menu_svg'/>
-                    <img src={hoomanGreen} className='Menu_svg'/>
+                    <img alt='' src={glassesGreen} className='Menu_svg'/>
+                    <img alt='' src={hoomanGreen} className='Menu_svg'/>
                 </div>
             </div>
         </div>

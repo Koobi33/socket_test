@@ -2,10 +2,10 @@ import React from 'react';
 
 export default function Violations(props) {
     return(
-        <div>
+        <div className='Violation-Left-contaimner'>
             <h3 className='Violation-header'>Нарушения:</h3>
             <div className='Violations-container'>
-                <p className=''>Дмитрий без каски</p>
+                <h2 className=''>Дмитрий без каски</h2>
             </div>
         </div>
     );
