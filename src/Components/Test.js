@@ -7,20 +7,26 @@ const Test = () => {
     // On connection
     socket.on('connect', () => {
       console.log('connected');
+
     });
     // Connection failed
     socket.on('error', function (err) {
       console.log(err);
       throw new Error(err);
     });
-  }, [socket]);
+    socket.on('test', (data) =>{
+      console.log(data);
+    })
+  }, []);
+  const handleImg = () => {
+    socket.emit('parce_img');
+  };
 
-
-    return (
-      <div>
-          <h1>СЕМЁН - ГЕНИЙ!</h1>
-      </div>
-    );
+  return (
+    <div>
+      <h1 onClick={handleImg}>СЕМЁН - ГЕНИЙ!</h1>
+    </div>
+  );
 };
 
 export default Test;
