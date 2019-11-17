@@ -20,9 +20,7 @@ function App() {
             console.log(err);
             throw new Error(err);
         });
-        socket.on('test', (data) => {
-            console.log(data);
-        })
+       
     }, []);
 
     return (

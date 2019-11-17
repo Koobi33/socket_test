@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c7611eb-618a-423e-8470-65fd4bbe4221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Detect.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Detect.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Violations.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Violations.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Main.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
+        <option value="JSX" />
       </list>
     </option>
   </component>
@@ -29,6 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TjjxTQy4Q23DwfAKZpQjUd1N82" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -59,9 +56,7 @@
       <workItem from="1573982221210" duration="4000" />
       <workItem from="1573982729293" duration="4000" />
       <workItem from="1573982763294" duration="52000" />
-      <workItem from="1573986062771" duration="337000" />
-      <workItem from="1573986405268" duration="82000" />
-      <workItem from="1573986513543" duration="5626000" />
+      <workItem from="1573982829335" duration="7309000" />
     </task>
     <servers />
   </component>
